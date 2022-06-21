@@ -39,7 +39,7 @@ mock==2.0.0
 mote==0.0.4
 motephat==0.0.2
 mypy==0.470
-numpy==1.16.2
+numpy==1.22.0
 oauthlib==2.0.1
 pantilthat==0.0.7
 pbr==5.1.3
